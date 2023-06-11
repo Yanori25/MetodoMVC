@@ -1,0 +1,12 @@
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\bin\Debug\Capas controladora y vista.exe.config
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\bin\Debug\Capas controladora y vista.exe
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\bin\Debug\Capas controladora y vista.pdb
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas controladora y vista.csproj.AssemblyReference.cache
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas_controladora_y_vista.Properties.Resources.resources
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas controladora y vista.csproj.GenerateResource.cache
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas controladora y vista.csproj.CoreCompileInputs.cache
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas controladora y vista.exe
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas controladora y vista.pdb
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas_controladora_y_vista.Capa_vista.Main.resources
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas_controladora_y_vista.Capa_vista.Ordenador.resources
+C:\Users\Yanori Osorto\source\repos\Capas controladora y vista\obj\Debug\Capas_controladora_y_vista.Capa_vista.OrdenadorBinario.resources
